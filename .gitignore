@@ -1,0 +1,17 @@
+# API credentials
+apikey.txt
+
+# .NET build output
+bin/
+obj/
+artifacts/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Operating system files
+.DS_Store
+Thumbs.db
